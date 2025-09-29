@@ -1,0 +1,16 @@
+# dune exec -- ./re.exe
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/diogopires/.cache/dune/db
+# Workspace root: /home/diogopires/UNI/TC/re
+# Auto-detected concurrency: 12
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /usr/bin/ocamlc.opt -config > /tmp/dune_010567_output
